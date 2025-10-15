@@ -1,39 +1,40 @@
-# 👋 Hi, I'm Chaimae ECH-CHARFI  
+#  Hi, welcome to my GitHub — a space where creativity meets technology  
 
-🎓 **Software Engineer** with a **Master’s degree in Computer Science**, passionate about building impactful and innovative software solutions.  
+I'm **Chaimae ECH-CHARFI**, a 🎓 **Software Engineer** with a **Master’s degree in Computer Science**, passionate about building impactful and innovative digital experiences.  
 
-💡 My expertise covers the full development lifecycle — from **frontend & backend development** to **software architecture design** and **data analysis**.  
+My expertise spans the full software lifecycle — from **frontend and backend development** to **architecture design** and **data analysis**.  
+Driven by precision and curiosity, I love turning ideas into reliable, user-focused solutions.
 
 ---
 
-### 🚀 What I Do  
-#### 💻 Frontend Development  
+###  What I Do  
+
+####  Frontend  
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
-#### ⚙️ Backend Development  
+####  Backend  
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
 
-#### 🧠 API & Database  
+####  Database & API  
 <p>
-  <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-#### 🎨 UI/UX Design  
+#### Design  
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
 </p>
 
-#### 🧰 Other Tools  
+#### Other Tools  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -41,24 +42,25 @@
   <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
+
 ---
 
 ### 🌐 Portfolio  
-🎨 Explore my projects and experience:  
-👉 [**Portfolio Website**](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
+ Explore my work and projects:  
+ [**Portfolio Website**](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
 
 ---
 
-### 🤝 Let's Connect  
+###  Let’s Connect  
 <p>
   <a href="https://www.linkedin.com/in/chaimae-ech-charfi-582366199/">
-    <img src="https://img.shields.io/badge/-Chaimae%20ECH--CHARFI-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Chaimae%20ECH--CHARFI-blue?logo=linkedin&style=flat"/>
   </a>
   <a href="https://github.com/ECHcharfi-chaimae">
-    <img src="https://img.shields.io/badge/-ECHcharfi--chaimae-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-ECHcharfi--chaimae-black?logo=github&style=flat"/>
   </a>
 </p>
 
 ---
 
-⭐ *"Driven by curiosity, guided by precision, and motivated by impact."*
+ *"Driven by curiosity, guided by precision, and motivated by impact."*
