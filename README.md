@@ -61,8 +61,5 @@ Driven by precision and curiosity, I love turning ideas into reliable, user-focu
   <a href="https://www.linkedin.com/in/chaimae-ech-charfi-582366199/">
     <img src="https://img.shields.io/badge/LinkedIn-Chaimae%20ECH--CHARFI-blue?logo=linkedin&style=flat"/>
   </a>
-  <a href="https://github.com/ECHcharfi-chaimae">
-    <img src="https://img.shields.io/badge/GitHub-ECHcharfi--chaimae-black?logo=github&style=flat"/>
-  </a>
 </p>
 
