@@ -1,4 +1,4 @@
-#  Hi, welcome to my GitHub — a space where creativity meets technology  
+#  Hi, welcome to my GitHub, a space where creativity meets technology  
 
 I'm **Chaimae ECH-CHARFI**, a 🎓 **Software Engineer** with a **Master’s degree in Computer Science**, passionate about building impactful and innovative digital experiences.  
 
