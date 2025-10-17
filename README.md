@@ -54,7 +54,7 @@ Driven by precision and curiosity, I love turning ideas into reliable, user-focu
 
 ### 🌐 Portfolio  
  Explore my work and projects:  
- [**Portfolio Website**](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
+ [**Portfolio Chaimae**](https://echcharfi-chaimae.github.io/portfolio_ECHCHARFI/)
 
 ---
 
